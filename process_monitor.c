@@ -17,7 +17,11 @@ void mostrar_info_sistema() {
     printf("PID del proceso padre: %d\n", getppid());
 
     printf("=== Monitor de Procesos del Sistema ===\n");
+<<<<<<< HEAD
     printf("Versión: 1.1 - Estable\n");
+=======
+    printf("Versión: 2.0 -- Conflictiva --\n");
+>>>>>>> feature-nueva-funcionalidad-conflicto
 }
 
 void mostrar_uso_memoria() {
